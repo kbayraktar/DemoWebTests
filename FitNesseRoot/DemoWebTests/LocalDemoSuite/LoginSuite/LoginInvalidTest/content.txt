@@ -1,4 +1,4 @@
-Dieser Testfall überprüft, dass ein ungültiger Benutzers sich nicht anmelden kann.
+Koko Dieser Testfall überprüft, dass ein ungültiger Benutzers sich nicht anmelden kann.
 !include <DemoWebTests.TestSzenarien.ApplikationStartSzenario
 !|script|
 |Applikation Start Szenario|
